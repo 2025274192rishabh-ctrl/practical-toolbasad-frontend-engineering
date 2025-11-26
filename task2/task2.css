@@ -1,0 +1,21 @@
+/* Heading styling */
+h2 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Image styling */
+#fav-img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+/* Paragraph styling */
+#description {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    color: #444;
+}
