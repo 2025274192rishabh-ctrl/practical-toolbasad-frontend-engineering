@@ -1,4 +1,4 @@
-Task 2:focuses on adding an image to a webpage along with proper alt text for accessibility. You create a heading, insert an image (local or online), and write a short paragraph describing why it’s your favorite place. CSS is then used to style the image by setting its width, centering it, and adding spacing to the paragraph. This task helps you practice essential HTML and CSS formatting skills.
+Task 2:focuses on adding an image to a webpage along with proper alt text for accessibility. You create a heading, insert an image (local or online), and write a short paragraph describing why it’s your favorite place. CSS is then used to style the image by  its width, centering it, and adding spacing to the paragraph. This task helps you practice essential HTML and CSS formatting skills.
 
 
 
