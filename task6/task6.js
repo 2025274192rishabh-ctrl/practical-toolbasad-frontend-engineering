@@ -4,7 +4,7 @@ let b = 10;
 
 // Calculating sum
 let sum = a + b;
-
+//completing
 // Updating the paragraph content
 document.getElementById("result").innerHTML =
     "The sum of " + a + " and " + b + " is " + sum;
